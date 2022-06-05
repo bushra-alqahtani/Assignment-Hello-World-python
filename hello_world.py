@@ -17,8 +17,8 @@ print("hello"+" "+name)
 num=23
 print("hello",num)
 #3b
-num="23"
-print("hello"+ num )
+num=23
+print("hello"+ str(num) )
 
 #4a
 food1="pasta"
